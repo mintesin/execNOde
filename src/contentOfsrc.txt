@@ -1,0 +1,6 @@
+-Main source code of the api 
+-api routes 
+-can be devided into different folders as 
+ -user related routes
+-PRODUCT RELATED ROUTES
+ -other resources for future api versions

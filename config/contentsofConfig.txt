@@ -1,0 +1,4 @@
+-configuration files
+-database.js //database connection setup 
+-environment.js //environment configuration setup 
+-settings 
