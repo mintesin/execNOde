@@ -1,0 +1,18 @@
+-it acts in between the controllers and data layer
+-it used to code repetitive interaction with the database and import it in the controllers 
+-data retrieval
+-Data manipulations
+-business logic implementation
+-caching logic
+-security and authentication
+-validation
+-asynchronous task handling 
+-Error handling and logging
+-data transformation and formatting
+-event- Processing
+-user management 
+-configuration management 
+-User Service: Handles user registrations, profile updates, authentication, and password management.
+-Product Service: Manages product listings, including creation, updates, searches, and product recommendations.
+-Order Service: Responsible for placing orders, managing order status, and processing payments, including interaction with payment processing APIs.
+-Notification Service: Sends emails and push notifications to users regarding order confirmations, shipping updates, or promotional messages.

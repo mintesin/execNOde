@@ -1,0 +1,6 @@
+-Schema definitions for validating incoming requests (using libraries like Joi or Yup).
+-user input validation
+-product input validation
+-request  validation
+-response validation
+
